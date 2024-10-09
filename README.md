@@ -22,5 +22,4 @@ sonar-scanner \
 [sonarcloud.io](https://www.sonarsource.com/products/sonarcloud/)
 
 7) Executando SonarCloud
-
-
+8) Trocando de Quality Gate
